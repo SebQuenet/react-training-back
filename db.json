@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id":"2f24vvg",
+      "email": "jon.snow@thewall.ws",
+      "name": "Jon Snow",
+      "avatar": "jonsnow.jpg",
+      "password": "$2a$12$nv9iV5/UNuV4Mdj1Jf8zfuUraqboSRtSQqCmtOc4F7rdwmOb9IzNu" 
+    },
+    {
+      "id":"413ink7",
+      "email": "the.hound@lannisport.ws",
+      "name": "Sandor Clegane",
+      "avatar": "thehound.jpg",
+      "password": "$2a$12$nv9iV5/UNuV4Mdj1Jf8zfuUraqboSRtSQqCmtOc4F7rdwmOb9IzNu" 
+    },
+    {
+      "id":"8r3fngg",
+      "email": "arya.stark@braavos.es",
+      "name": "Arya Stark",
+      "avatar": "aryastark.jpg",
+      "password": "$2a$12$nv9iV5/UNuV4Mdj1Jf8zfuUraqboSRtSQqCmtOc4F7rdwmOb9IzNu" 
+    },
+    {
+      "id":"83ngk17k",
+      "email": "samwell.tarly@thereach.ws",
+      "name": "Samwell Tarly",
+      "avatar": "samwelltarly.jpg",
+      "password": "$2a$12$nv9iV5/UNuV4Mdj1Jf8zfuUraqboSRtSQqCmtOc4F7rdwmOb9IzNu" 
+    }
+  ],
+  "comments": []
+}

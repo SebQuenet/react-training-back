@@ -1,0 +1,23 @@
+POST http://127.0.0.1:3142/login
+Content-Type: application/json
+
+{
+  "email": "jon.snow@thewall.ws",
+  "password": "password"
+}
+
+###
+POST http://127.0.0.1:3142/login
+Content-Type: application/json
+
+{
+  "email": "wrongemail",
+  "password": "wrongpassword"
+}
+
+###
+GET http://127.0.0.1:3142/users/me
+###
+GET http://127.0.0.1:3142/users
+###
+GET http://127.0.0.1:3142/users/413ink7

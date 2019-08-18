@@ -1,0 +1,15 @@
+const BACKEND_PORT = 3142;
+const DBJSON_PORT = 3143;
+const BACKEND_HOSTNAME = 'localhost';
+
+const DBJSON_URL = `http://${BACKEND_HOSTNAME}:${DBJSON_PORT}`;
+const PUBLIC_URL = `http://${BACKEND_HOSTNAME}:${BACKEND_PORT}/public`;
+
+module.exports = {
+  BACKEND_PORT,
+  DBJSON_PORT,
+  BACKEND_HOSTNAME,
+
+  DBJSON_URL,
+  PUBLIC_URL,
+}
